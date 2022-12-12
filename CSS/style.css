@@ -1,0 +1,43 @@
+.navegacion{
+    background-color: #6610f2;
+}
+.nav-link{
+    font-weight: bold;
+    color: white;
+}
+.nav-link:hover{
+
+    color: #7791b7;
+    transition: all 0.5ms ease-in;
+    object-fit: cover;
+
+}
+.logo {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.logo:hover{
+    color: #dbb6ee;
+    transition: all 1s ease-out;
+    font-weight: normal;
+}
+
+.dog{
+    height: 490px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+    border-radius: 4px;
+
+} 
+
+.btn-primary{
+    background-color: #6610f2;
+}
+span{
+    font-weight: bold;
+    color: black;
+}
+
+
